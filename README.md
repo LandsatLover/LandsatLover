@@ -1,8 +1,14 @@
+
+
 # 🌍 Hello, I'm Rubén Vicente 👋
+<img src="https://github.com/user-attachments/assets/1fb9e4c4-18c0-44cb-b2f4-8b82d29509dd" alt="geo-banner" width="800"/>
 
-![geo-banner](https://github.com/user-attachments/assets/1fb9e4c4-18c0-44cb-b2f4-8b82d29509dd)
 
-I'm a **Geographic Information Systems (GIS) and Remote Sensing Technician** with a passion for spatial data analysis and geospatial technology. My work spans across various fields, including environmental monitoring, resource management, and remote sensing applications. I'm always eager to learn and take on new challenges in data science, particularly in the realm of spatial analysis. 
+<p align="justify">
+I'm a <strong>Geographic Information Systems (GIS) and Remote Sensing Technician</strong> with a passion for spatial data analysis and geospatial technology. My work spans across various fields, including environmental monitoring, resource management, and remote sensing applications. I'm always eager to learn and take on new challenges in data science, particularly in the realm of spatial analysis.
+</p>
+
+
 
 ## 🛠️ Technologies & Tools
 ![QGIS](https://img.shields.io/badge/QGIS-3.16-green?style=for-the-badge&logo=qgis&logoColor=white)
@@ -48,9 +54,24 @@ Brief description of the project and link to repository.
 Brief description of the project and link to repository.
 -->
 
-## 🌎 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rubenvicentemartinez)
+## 🌍 Let's Connect!
 
-### 📧 [Email Me](mailto:rubenambientalesupv@gmail.com)
+🌐 Languages
+
+
+| <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="30"> | Spanish |
+|-----------------------------------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="30"> | English |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg" width="30"> | Catalan |
+
+
+| Contact Option   | Details |
+|------------------|---------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubenvicentemartinez) | [LinkedIn Profile](https://www.linkedin.com/in/rubenvicentemartinez) |
+| [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubenambientalesupv@gmail.com) | rubenambientalesupv@gmail.com |
+| [![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ruben_v_m3@hotmail.com) | ruben_v_m3@hotmail.com |
+| [![Phone](https://img.shields.io/badge/Phone-%23333333.svg?style=for-the-badge&logo=phone&logoColor=white)](tel:+34624665562) | +34 624 665 562 |
+| [![Address](https://img.shields.io/badge/Location-%23ff5733.svg?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/some-link-to-location) | Calle Cuadra Velluter nº 2, Castellón |
 
 Thank you for stopping by! Looking forward to connecting and collaborating on exciting geospatial projects.
+
